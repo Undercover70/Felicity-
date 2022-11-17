@@ -23,7 +23,7 @@ global.sessionName = "session"
 global.prefa = ['*'] // Prefix ---  change it to anythong you want except @//
 
 
-global.location = "lagos, Nigeria"
+global.location = "atlanta,usa"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
