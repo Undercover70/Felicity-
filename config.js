@@ -62,15 +62,15 @@ global.mess = {
     useradmin: 'KID, look like you are not group ⚠️ *ADMIN* ⚠️',
     botadmin: 'Oops, i cant execute this command without being an *Admin* of this group.',
     botowner: 'KID, look like you are not bot ⚠️ OWNER ⚠️',
-    grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Baka!',
+    grouponly: 'This command is only made for *Groups*, kid!',
+    privateonly: 'This command is only made for *Private Chat*, kid!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'hold on a sec....',
-    nolink: 'Please provide me *link*, Baka!',
+    nolink: 'Please provide me *link*, kid!',
     error: 'An error occurd!',
     banned: 'user *banned*!',
     bangc: 'Group *banned*!',
-    nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+    nonsfw: 'Dont be a pervert kid! This is not a NSFW enabled group!'
     
 }
 
